@@ -20,3 +20,5 @@ Required simple Product adding and order manageable platform that helps in calcu
 1. Open "miniProject" folder as existing asp.net web application.
 2. Create a database name "miniproject.sdf" with two tables as shown in folder Project Data/Database Design.
 3. Now run the Project.
+
+Thanks  all my friends  joined  request 
